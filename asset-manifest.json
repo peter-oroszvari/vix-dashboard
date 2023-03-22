@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/peter-oroszvari.github.io/vix-dashboard/static/css/main.22a456c4.css",
-    "main.js": "/peter-oroszvari.github.io/vix-dashboard/static/js/main.3dd3bb63.js",
+    "main.js": "/peter-oroszvari.github.io/vix-dashboard/static/js/main.ec239e14.js",
     "static/js/787.ffbddcb3.chunk.js": "/peter-oroszvari.github.io/vix-dashboard/static/js/787.ffbddcb3.chunk.js",
     "index.html": "/peter-oroszvari.github.io/vix-dashboard/index.html",
     "main.22a456c4.css.map": "/peter-oroszvari.github.io/vix-dashboard/static/css/main.22a456c4.css.map",
-    "main.3dd3bb63.js.map": "/peter-oroszvari.github.io/vix-dashboard/static/js/main.3dd3bb63.js.map",
+    "main.ec239e14.js.map": "/peter-oroszvari.github.io/vix-dashboard/static/js/main.ec239e14.js.map",
     "787.ffbddcb3.chunk.js.map": "/peter-oroszvari.github.io/vix-dashboard/static/js/787.ffbddcb3.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.22a456c4.css",
-    "static/js/main.3dd3bb63.js"
+    "static/js/main.ec239e14.js"
   ]
 }
